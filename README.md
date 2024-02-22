@@ -51,9 +51,9 @@ Put React in ruby on rails app
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- LIVE DEMO -->
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Link for front end app repository <a name="live-demo"></a>
 >
-Coming soon
+https://github.com/francksefu/hello_rails/pull/1
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
