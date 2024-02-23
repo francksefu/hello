@@ -113,7 +113,7 @@ If you like this project you could clone the repo and work with it or do the cha
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse for providing the necessary resources for this project.
-I wanna give thanks to [Gregoire V](https://www.behance.net/gregoirevella), the [author of the original design]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
